@@ -5,9 +5,11 @@ public class main1 {
 		System.out.println("hello-keigoさん");
 		int a;
 		int b;
+		int c;
 		a = 2000;
 		b = a + 4000;
-		System.out.println(b);
+		c = 100;
+		System.out.println(b + c);
 	}
 
 }
